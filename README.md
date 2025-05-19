@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## In-Context Region-based Drag: Drag Any Region to Any Shape
+Official Code for ICRDrag. Coming soon ...
 <!--
 **ICRDrag/ICRDrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
